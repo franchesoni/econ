@@ -8,5 +8,17 @@ Let me give you a hint of my values.
 - First, I value efficiency. To me, doing ways efficiently is doing things well. This doesn't mean we should ignore intangibles. An all utilitarian viewpoint can quickly lead to very inhuman policies. I prefer policies that have a slider between one extreme and the other, because then society can decide where in the Pareto frontier the policy will live, and I need not to be opinionated.
 - Second, when looking for truth, theory, data and anecdotical evidence are all valuable, and we want them to agree.
 - Third, even though I obviously have my political preferences, I understand that everyone thinks differently and I don't think my own preferences are best. However, I value rationality and dialog. I think humans can agree on basic things (like math) and can reason through things. In other words, I expect you to agree with me as long as you agree with the correctness of the reasoning and the assumptions. I expect you to disagree if you think some key assumption isn't true or another one is missing. In this spirit I'll provide you with an email, with the hope you will correct my reasoning when its wrong or add key assumptions or critiques if you find them pertinent.
-- Fourth, even though I like disruption, I try to be realistic. I always thought about how to make the world a better place, but when I was younger I did not really consider the practicality of my ideas. Now I consider that policies that can't be practically implemented are out of the question. This means, most times, gradual implementation. Moreover, we will talk about what policy makers should do, not about how to get them to do it. 
+- Fourth, even though I like disruption, I try to be realistic. I always thought about how to make the world a better place, but when I was younger I did not really consider the practicality of my ideas. Now I consider that policies that can't be practically implemented are out of the question. This means, most times, gradual implementation. Moreover, we will talk about what policy makers should do, not about how to get them to do it.
+
+## Vision
+
+_Placeholder_
+
+## Reinvention
+
+_Placeholder_
+
+## Practical steps
+
+_Placeholder_
 
