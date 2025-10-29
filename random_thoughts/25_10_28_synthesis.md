@@ -1,0 +1,22 @@
+Long ago a savant lived in the forest and learned everything about humanity and society. The savant knew the solutions to all important problems almost fully, yet those solutions were constantly refined and perfected. The savant cultivated the soul and took things "with philosophy", as the French say. One day Death came calling and the savant faced Death fearlessly and did not resist. The solutions to all important problems remained in the forest waiting for some curious mind to come read them. But rain, wind, and eventually fire, consumed the paper and the ink and the solutions were never heard. 
+
+The savant lived a profound life. Sadly, the solutions to all important problems never touched society. I am too young to be a savant, but I see the value in that work: the views of the present year are always much better than the views I had one year ago. As long as this is true, and it has been true since I have memory, my views are guaranteed to be incomplete and ignorant, and the topics are guaranteed to be shallower.
+
+However, I wouldn't like to die as well as the savant did. Some ideas could help advance the worldview of people that haven't spent as much time as I did thinking about the topics I thought about. So what? Share incomplete ideas, or improve them until Death calls me too? The solution seems obvious: share with a disclaimer. What I will write next is much worse than what I will write next year. Chances are you know more than me, and your feedback will improve my understanding, and through the next version, others' understanding too. But shying away due to low quality content keeps it from having positive impact. If the content is bad, society will safely ignore it. But it's on you to read and judge. But do me a favor: don't waste your time reading books that aren't worth your time. If what follows wastes your time, quit immediately and go read something better, there is plenty. If you're so kind, you could also write a short critique so we don't waste someone else's time too. Let us now start.
+
+# Synthesis
+
+Montevideo, Uruguay, October 2025
+
+Already a quarter of this century. And we haven't figured it out yet. Most people agree on the problems, but societies are constrained by systems that seem uncapable of solving them. China is the new big power, and this will change how the west perceives democracy. More importantly, dreams have been lost for a while. This "postmodernity" seems to have taken the power away from people. Nothing matters enough anymore. Is it so?
+
+Discussing philosophy is hard. Yet postmodernism is wrong. We're constantly acting (even in inaction), and there are better and worse choices. But guilt, guilt is misplaced. People should feel less guilty, and society should feel more guilt. Every suboptimal decision today makes our future worse. All the problems we have now are the fault of the decision makers of the past. People blame each other today, they blame immigrants, they blame the rich, they blame corruption. But the problems we have now are a consequence of the bad choices made 20 years ago. 
+
+As many things in life, policy is about decision making. As long as people make policy choices, the question is who has the power to decide and why. The point I would like to get accross is that given the questions, the solutions can be designed quite simply.
+
+- how does decision making work in society? does it guarantee that people with power are capable, reasonable and well-intentioned people that work together to achieve the best outcome? 
+- how does the economy work? does it incentivize production of what's important and distributes it intelligently, so that it maximizes the people's wellbeing in the medium and long term?
+
+Thought itself seems to be broken. Fallacies impede progress. For instance, waving "human rights" as if it were some universal truth and indisputable moral makes it hard to act properly, which needs nuance. There is plenty of nuance in human rights. It seems to me that the solutions are simple. The system needs to be changed, so they can be implemented. This includes integrating people's feedback, having decision making systems in place, and systems to distribute power in place too. That is the true political revolution.
+
+It seems shy. I came back to institutional strength. Is that the solution? Should I just go grab power and change systems? Transform the political system, transform the economy, transform education? Is that all? I just have better ideas than the rest? Sounds fishy.
