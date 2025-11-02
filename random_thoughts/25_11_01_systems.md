@@ -54,3 +54,5 @@ Deliberation platforms tend to amplify noise unless attention itself is rationed
 You need failure protocols: how to reverse bad collective decisions without paralysis.
 
 Ethics of manipulation: if you’re designing systems that shape decisions, who guards against engineered consent?
+
+nice convo: https://chatgpt.com/share/69077119-de14-800f-ad84-daa4b6c1d3ca
