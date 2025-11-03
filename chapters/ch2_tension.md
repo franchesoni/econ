@@ -1,6 +1,18 @@
-# The tension between tech and the job-market 
+# The tension between tech and the job-market
 
-Technology is a fascinating philosophical topic. Philosphers go beyond the definition of technology as "useful stuff" and understand that doing technology is a way of philosophizing about the world. This book deals with a large-scale system (the economy), and as this large scale system is technology, the book is pushing forward a very particular philosophical view. 
+## Vision
+
+_Placeholder_
+
+## Reinvention
+
+_Placeholder_
+
+## Practical steps
+
+_Placeholder_
+
+Technology is a fascinating philosophical topic. Philosphers go beyond the definition of technology as "useful stuff" and understand that doing technology is a way of philosophizing about the world. This book deals with a large-scale system (the economy), and as this large scale system is technology, the book is pushing forward a very particular philosophical view.
 
 The economy technology as presented here is very western. This is natural because the western economy is obviously also western. In the western world, technology is often understood as techniques, systems or machines that help us do things with less work or make possible the creation of new things, and in that sense we will write "technology" in what follows.
 
