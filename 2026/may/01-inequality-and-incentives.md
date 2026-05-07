@@ -33,3 +33,4 @@ Inequality allows also for elite-funded public goods and philanthropy, which can
 ## Conclusion
 
 Inequality has prenty of good things, such as the incentives it provides or the diversity of markets it creates. Also, inequality can compensate the mistakes of most credit systems and enable riskier investments. It also enables more powerful philanthropy, which can many times do better than the states by many measures.
+
