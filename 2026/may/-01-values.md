@@ -1,0 +1,46 @@
+
+It's hard to write this. Even if I had the right solutions to the most important problems, why would you believe me?
+How could I be able to convince you to abandon your ideology and come closer to mine? Do you even know what your ideology is?
+
+It is hard because, even though what I think is not new, the combination is weird. How can I desire efficient markets while simultaneously wanting little inequality? Or how can I be pro-technology (capital) while also caring about workers? 
+
+The combination of values and preferences is what makes it weird and hard to sell. 
+But I have thought about it deeply and it's all false oppositions. You can have the cake and eat it too.
+We were just taught that we couldn't. 
+
+Let's list the values:
+- efficiency
+    - Efficiency is getting more for the same input. If "more" refers to a good thing, higher efficiency is good. A more efficient society will produce and consume only the good things. For instance, it is not efficient for a society to produce and consume harmful and addictive drugs. When a society largely produces and consumes good things, higher efficiency is great. Higher efficiency doesn't force society to get more, as it could produce the same for less input. We love societies that produce and consume good things and we love efficient societies.
+
+    - Efficiency and simplicity are related. Simple systems take less effort to make, use and maintain. In this sense, they are more efficient than more complex systems. We love simplicity.
+
+    - Free markets are efficient only in theory. In practice, many inefficient things arise: monopolies, irresponsible behavior, information distortion (including advertisement), addictive products, network-based job markets, and so on. Free markets are great in some things, but people who like them seem to think they are great in every aspect, while they are clearly not. Similarly, people who dislike them seem to think they are terrible in every aspect, while they can encourage innovation through competition and, most importantly, reward efficiency and productivity in a rather simple way. Because of their problems, we don't like free markets. But they have commonalities with efficient markets, which produce mostly good things, have rich information flow, and whose job market mostly looks at merit and performance.  
+
+    - The state should also be efficient. I am not implying it should do more or less. Just that a more efficient state is better, as it allows it to do however much society wants for less than before. People who hate the markets and love the state seem to forget that an inefficient state is burning resources that could be given out to the public. A classical example is layoffs in the state, which always have the positive impact of improved state financials, which can be directly translated into income for the public. Of course not all layoffs are good, e.g., firing all the firefighters would be incendiary, but they might be good sometimes. We love efficient states.
+
+    - Efficiency and technology are deeply related. We love technology.
+
+- equality
+
+    - argueably the biggest failure mode of free markets is wealth inequality. Capital (including tech) is what drives up our efficiency, but if only a tiny group of people get the benefits, society doesn't do well. Inequality has plenty of consequences, such as slower growth, polarization, worsening of living standards, limited social mobility, limited meritocracy, distortion of political power, and the like. For the capitalist reading this, notice that the biggest driver of growth is technology, and that the biggest obstacle to the introduction of tech is wealth inequality: if the capital were more distributed, people would win from the improved efficiency, therefore not opposing it, causing much higher growth. I did not speak about income equality, as it is of second order importance. We love controlled and limited wealth inequality.
+    
+- opportunity
+
+    - It drives me crazy to see how some people have much less opportunity than the rest. I do not care if Messi earns tons, that's of second order importance. What I care about is all the wasted potential. Society not discovering all the Messi there are because we do not give them the opportunity to grow and show what they can do. Poverty is worrying, but it is even more worrying that people can't get out of it. Even if you had more money, if you live in a poor village, you might lack water or sanitation. Even if you had more money, maybe there is no market to offer the things you need. This is called the poverty trap. It's horrible. The opposite of it, opportunity and as a consequence, social mobility (making it common for people to change income groups), are great remedies. We love social mobility and we love opportunity. 
+
+- revolutionary reforms and thought
+
+    - Conservatism has one great quality: it values and protects what took a long time to build and somewhat works. It also understands that people might like a stable system rather than a continuously changing one. Conservatism is about letting things be as they are. Very Taoist. As many times the cure is worse than the disease, we love thinking deeply before changing anything.
+
+    - However, we do believe that things could be made better. They aren't made better due to a combination of lack of vision, corrupt incentives, and lack of power. But we think that things can be made better and we love to make things better.
+
+    - We do not like violence. Many violent revolutions fail to solve the issues that inspired the revolution in the first place, as these are systemic. Some, like the French revolution, are so disruptive and chaotic that it was followed by its opposite (the most famous french empeeror). Reform, in contrast, can address the issues that might inspire a revolution in a non-violent way. Reform can be revolutionary in its impact, in that it can profoundly change society, and in its novelty, in that it can be innovative, yet it needs not to be violent. We love reform.
+
+    - After conservative careful thought and probably a pilot, we do not fear making revolutionary reforms. Revolutionary reforms don't have to be big from a practical standpoint, but they are big in their impact. For instance, taking the money collected by an existing inheritance tax and distributing that money in equal parts to all citizens is not a big practical change, it simply requires transfer infrastructure (which might already be there). However, it can help people see inheritance taxes differently and that can snowball to a policy the public prefers (lower or higher inheritance taxes). Another example is making senators non re eligible, which is practically trivial (changing one norm), yet it can have profound consequences in the political system. Of course, changing that one norm would be practically easy, yet extremely politically hard (most senators would oppose). But we shouldn't stop doing the right thing (the examples are not it) because it is hard. We love revolutionary reforms. 
+
+    - We also like curiosity. That involves believing that we can always do better. But we shan't be stupid. We should always ask, what are the good and bad things about how things are today? We need to be ready to understand that inequality might be good in some aspects and bad in other, and that the same applies to the state, or to free markets, and so on. And then we ask, can we keep the good while fixing the bad? The answer is usually yes, but it involves new solutions. Sometimes the "new" solutions have been used in another country or even at a smaller scale for some time. Thinking from first principles, understanding how things should be, and thinking about how we can get there, is also part of curiosity. We love curiosity.
+    
+    - Finally, a comment on how I think. I have been both criticized and congratulated for my tendency to rethink everything. Why don't you read first? - I am frequently asked. I do read, but I do it later. I think that, if something is true, I should be able to arrive on my own. When I get to the same conclusions that other people have already explored (this happens often), I understand them better. I many times think by my own and then ask an AI or someone else, what am I not getting? That gives me confidence in that many of the things I write make sense. Some, of course, will not make sense: I am also emotionally biased, and sometimes I disregard details that are actually important. But I try to be reasonable. What is surprising is that I have rediscovered many solutions to very deep problems, some of them that are already successfully implemented (sovereign wealth funds) and some which haven't yet been explored. I will share what I know.
+    
+
+All of what follows stems from here. The solutions are become obvious: fixing wealth distribution, creating sovereign wealth funds, reducing risk for innovators, getting insurance and annuities right, doing direct cash transfers, increasing carbon tariffs (for most countries), improving decision making systems (with rankings, fluid democracy, stable evaluation criteria, etc.), simplifying norms, taxing based on flows and wealth, investing in infrastructure (including digital), rethinking education, etc. 
